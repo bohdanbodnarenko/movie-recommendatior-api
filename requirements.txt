@@ -21,7 +21,6 @@ scikit-surprise==1.1.1
 scipy==1.7.2
 six==1.16.0
 surprise==0.1
-TBB==0.2
 threadpoolctl==3.0.0
 urllib3==1.26.7
 Werkzeug==2.0.2
